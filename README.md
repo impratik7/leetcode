@@ -1,1 +1,1 @@
-# leetcode
+Solved solution of leetcode problems
